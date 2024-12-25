@@ -1,0 +1,19 @@
+CMakeFiles/LCD_MOCK_SDL2.exe.dir/CMyLib/Src/cJSON.c.obj: \
+ D:\MyCode\VSCode\C\CMake\LCD_Mock_SDL2\CMyLib\Src\cJSON.c \
+ D:/ToolPath/Mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/limits.h \
+ D:/ToolPath/Mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed/syslimits.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/limits.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/_mingw.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_mac.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/_mingw_secapi.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/vadefs.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_directx.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/sdks/_mingw_ddk.h \
+ D:/ToolPath/Mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/stddef.h \
+ D:/ToolPath/Mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdint.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/stdint.h \
+ D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/CMyLib/Inc/cJSON.h \
+ D:/ToolPath/Mingw64/mingw64/x86_64-w64-mingw32/include/assert.h \
+ D:/ToolPath/Mingw64/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stdbool.h

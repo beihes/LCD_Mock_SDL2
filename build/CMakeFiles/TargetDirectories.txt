@@ -1,0 +1,3 @@
+D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build/CMakeFiles/LCD_MOCK_SDL2.exe.dir
+D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build/CMakeFiles/edit_cache.dir
+D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build/CMakeFiles/rebuild_cache.dir

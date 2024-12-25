@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\App\\LCD\\lcdAPI.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\App\\LCD\\lcdAPI.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/App/LCD/lcdAPI.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/App/LCD/lcdAPI.c.obj"
+},
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\App\\LCD\\lcdMode.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\App\\LCD\\lcdMode.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/App/LCD/lcdMode.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/App/LCD/lcdMode.c.obj"
+},
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\App\\Soft\\Calendar\\calendar.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\App\\Soft\\Calendar\\calendar.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/App/Soft/Calendar/calendar.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/App/Soft/Calendar/calendar.c.obj"
+},
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\CMyLib\\Define\\define.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\CMyLib\\Define\\define.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/CMyLib/Define/define.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/CMyLib/Define/define.c.obj"
+},
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\CMyLib\\Src\\cJSON.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\CMyLib\\Src\\cJSON.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/CMyLib/Src/cJSON.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/CMyLib/Src/cJSON.c.obj"
+},
+{
+  "directory": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/build",
+  "command": "D:\\ToolPath\\Mingw64\\mingw64\\bin\\gcc.exe  -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2-2.30.7\\include -ID:\\ToolPath\\SDL\\SDL2\\Base_File\\SDL2_net-2.2.0\\include -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\LCD -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Calendar -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\App\\Soft\\Game -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Define -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\CMyLib\\Inc -ID:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\.\\User -g -std=gnu11 -Og -g -Wall -o CMakeFiles\\LCD_MOCK_SDL2.exe.dir\\User\\main.c.obj -c D:\\MyCode\\VSCode\\C\\CMake\\LCD_Mock_SDL2\\User\\main.c",
+  "file": "D:/MyCode/VSCode/C/CMake/LCD_Mock_SDL2/User/main.c",
+  "output": "CMakeFiles/LCD_MOCK_SDL2.exe.dir/User/main.c.obj"
+}
+]
